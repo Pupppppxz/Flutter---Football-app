@@ -5,7 +5,7 @@ A new Flutter project.
 
 # command
 
-run project : flutter run
+- flutter run
 
 ## Getting Started
 
