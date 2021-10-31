@@ -4,7 +4,8 @@
 A new Flutter project.
 
 ## Getting Started
-# command : flutter run
+# command
+run project : flutter run
 
 This project is a starting point for a Flutter application.
 
